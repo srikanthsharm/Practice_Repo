@@ -1,2 +1,8 @@
- hi i am new file trying to enter in to git from local .
+dev-1
+a = 15
+b = 12
+
+# Adding two numbers
+res = a + b
+print(res)
 
